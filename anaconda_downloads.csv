@@ -3,20 +3,20 @@ scikit-learn,2023,15485322
 pytorch,2023,11001560
 cuml,2023,171191
 tensorflow,2023,2432514
-xgboost  ,2023,0
+py-xgboost,2023,2585041
 lightgbm,2023,1022345
 catboost,2023,325039
 scikit-learn,2024,19750039
 pytorch,2024,11969746
 cuml,2024,336401
 tensorflow,2024,1793509
-xgboost  ,2024,0
+py-xgboost,2024,4795679
 lightgbm,2024,1431388
 catboost,2024,369808
 scikit-learn,2025,23826374
 pytorch,2025,11595039
 cuml,2025,145292
 tensorflow,2025,1745782
-xgboost  ,2025,0
+py-xgboost,2025,5129384
 lightgbm,2025,2636069
 catboost,2025,463451
